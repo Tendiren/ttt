@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tendiren.ttt.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tendiren.ttt.MyBundle
 
 class MyApplicationService {
 
